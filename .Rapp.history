@@ -1,0 +1,18 @@
+getwd()
+dir()
+ls()
+dir
+ls
+ls()
+source("cube.R")
+cube(3)
+x <- 1:10
+x
+if(x>5) {}
+add2 <- function(x,y) {#
+  x + y#
+}add2(3,5)
+add2 <- function(x,y) {#
+  x + y#
+}
+add2(3,5)
